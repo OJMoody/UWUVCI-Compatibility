@@ -2880,5 +2880,15 @@
       "status": 2,
       "notes": "None"
     }
+    {
+      "rendersize": null,
+      "game_name": "Nintendogs",
+      "game_region": "EUR",
+      "base_name": "Mario Party DS EU",
+      "base_region": "EUR",
+      "status": 2,
+      "notes": "None"
+    }
   ]
+
 }
